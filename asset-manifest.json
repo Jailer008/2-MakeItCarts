@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/2-MakeItCarts/static/css/main.267e855a.css",
+    "main.js": "/2-MakeItCarts/static/js/main.54fd571c.js",
+    "static/js/787.9e184952.chunk.js": "/2-MakeItCarts/static/js/787.9e184952.chunk.js",
+    "static/media/live-after-death-iron-maiden-1985.jpg": "/2-MakeItCarts/static/media/live-after-death-iron-maiden-1985.6da85bd06902c7e1635f.jpg",
+    "static/media/power-corruption-lies-new-order-1983.jpg": "/2-MakeItCarts/static/media/power-corruption-lies-new-order-1983.b5ec907ddd912825c228.jpg",
+    "static/media/born-in-the-u.s.a.-bruce-sprinsteen-1984.jpg": "/2-MakeItCarts/static/media/born-in-the-u.s.a.-bruce-sprinsteen-1984.ddc64fc9f4dffc1f2583.jpg",
+    "static/media/slave-to-the-rhythm-grace-jones-1985.jpg": "/2-MakeItCarts/static/media/slave-to-the-rhythm-grace-jones-1985.eb10b6081c39a468d1d6.jpg",
+    "static/media/abbey-road-the-beatles-1969.jpg": "/2-MakeItCarts/static/media/abbey-road-the-beatles-1969.b45932b2f5a5bf0039cd.jpg",
+    "static/media/unkown-pleasures-joy-division-1979.jpg": "/2-MakeItCarts/static/media/unkown-pleasures-joy-division-1979.5ed6a722def14f811a9c.jpg",
+    "static/media/true-blue-madonna-1986.jpg": "/2-MakeItCarts/static/media/true-blue-madonna-1986.802d071f5f1ce9c00d83.jpg",
+    "static/media/the-velvet-underground-nico-the-velvet-underground-1967.jpg": "/2-MakeItCarts/static/media/the-velvet-underground-nico-the-velvet-underground-1967.f65cb9a11043579fad6d.jpg",
+    "static/media/corazon.png": "/2-MakeItCarts/static/media/corazon.82f1510fc1601904a532.png",
+    "static/media/the-dark-side-of-the-moon-pink-floyd-1973.jpg": "/2-MakeItCarts/static/media/the-dark-side-of-the-moon-pink-floyd-1973.2a11c5b93f6d726f603a.jpg",
+    "static/media/back-in-black-ac-dc-1980.jpg": "/2-MakeItCarts/static/media/back-in-black-ac-dc-1980.b111ec0b693a3e43f38f.jpg",
+    "index.html": "/2-MakeItCarts/index.html",
+    "main.267e855a.css.map": "/2-MakeItCarts/static/css/main.267e855a.css.map",
+    "main.54fd571c.js.map": "/2-MakeItCarts/static/js/main.54fd571c.js.map",
+    "787.9e184952.chunk.js.map": "/2-MakeItCarts/static/js/787.9e184952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.267e855a.css",
+    "static/js/main.54fd571c.js"
+  ]
+}
